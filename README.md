@@ -44,11 +44,6 @@ You are expected to build views in BigQuery from the dimension and fact tables a
 
   https://us-central1-ready-de-25.cloudfunctions.net/sellers_table
 
-- You can find the raw data in the postgreDB with the following connection details:
-  -
-  -
-  -
-  -
 - Your code is expected to follow the clean coding guidelines discussed in previous sessions (folder naming and hierarchy, variable naming, no unused import etc.).
 
 - You are expected to follow Github best practices ( New branch with a clear and descriptive name, short and clear commit message and Good PR description)
