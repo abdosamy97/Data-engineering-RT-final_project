@@ -13,7 +13,7 @@ default_args = {
 }
 
 with DAG(
-    'test_dag_asamy',
+    'tes_dag_asamy',
     default_args=default_args,
     description='A simple test DAG',
     schedule_interval=timedelta(days=1), 
